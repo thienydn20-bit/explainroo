@@ -1,0 +1,71 @@
+1
+00:00:00,250 --> 00:00:03,360
+How can an earthquake beneath
+the ocean create a tsunami?
+
+2
+00:00:03,815 --> 00:00:07,905
+At some plate boundaries,
+one tectonic plate slides beneath another.
+
+3
+00:00:08,185 --> 00:00:10,215
+Their edges can lock, storing strain.
+
+4
+00:00:11,750 --> 00:00:15,260
+When the fault suddenly slips,
+the seafloor can rise or fall.
+
+5
+00:00:15,545 --> 00:00:19,475
+This movement displaces the
+entire column of water above it.
+
+6
+00:00:20,717 --> 00:00:23,547
+Gravity pulls the disturbed
+water back toward balance.
+
+7
+00:00:23,932 --> 00:00:28,562
+Waves spread outward in all directions,
+carrying energy across the ocean.
+
+8
+00:00:29,883 --> 00:00:33,093
+In deep water,
+tsunami waves have very long wavelengths.
+
+9
+00:00:33,598 --> 00:00:37,388
+Their height may be small,
+so passing ships might barely notice them.
+
+10
+00:00:38,683 --> 00:00:41,153
+Near shore, shallower
+water slows the waves.
+
+11
+00:00:41,538 --> 00:00:44,728
+Their wavelengths shorten and
+their height can grow dramatically.
+
+12
+00:00:45,163 --> 00:00:47,633
+Water surges inland, flooding the coast.
+
+13
+00:00:49,083 --> 00:00:50,993
+A tsunami is a series of waves,
+
+14
+00:00:51,383 --> 00:00:53,033
+and the first may not be largest.
+
+15
+00:00:53,453 --> 00:00:57,703
+The key trigger is sudden displacement
+of a large volume of water.
+
