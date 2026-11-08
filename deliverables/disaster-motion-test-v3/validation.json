@@ -1,0 +1,251 @@
+{
+  "final_video": {
+    "duration": 120.0,
+    "resolution": [
+      1280,
+      720
+    ],
+    "fps": "60/1",
+    "decoded_frames": 7200,
+    "unique_frame_hashes": 7200,
+    "consecutive_duplicate_frames": [],
+    "subtitle_cues": 32,
+    "subtitle_timing_errors": [],
+    "last_subtitle_end": 118.28,
+    "audio": {
+      "codec": "aac",
+      "sampleRate": "48000",
+      "channels": 2
+    },
+    "old_videos_unchanged": {
+      "tsunami": "d42bde16d74b2abc85e19a5d42690407b2b9b3f9b534c72db63b02c39c9b2414",
+      "tsunami-climax-v2": "63a140b720c7dd4aee50448224d0a4fb8142ec30a1ba9d83ad2f7c3c67b2ad35"
+    },
+    "sha256": "9347dbfb02bd5b39af9ae898f74ce8197253a456c08eb7146ad81f8e366b911d",
+    "size_bytes": 62441446
+  },
+  "final_mix": {
+    "duration": 120,
+    "video": {
+      "width": 1280,
+      "height": 720,
+      "fps": "60/1",
+      "codec": "h264"
+    },
+    "audio": {
+      "codec": "aac",
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "loudness": {
+      "integrated": -14,
+      "range": 3.8,
+      "truePeak": -1.5
+    },
+    "blackSegments": [],
+    "silences": [],
+    "speech": {
+      "matchRate": 1,
+      "transcript": "A trembling street, rising water, falling rock. What turns a small movement into a destructive force? This street begins quietly. Then the ground shakes, while hanging lights and overhead cables swing behind the motion. Below the surface, a locked fault suddenly slips. Released energy travels outward as seismic waves through the surrounding rock. Back above ground, buildings and loose objects respond at different speeds. Dust escapes, fragments fall, and weakened masonry breaks away. In a separate ocean setting, the sea floor suddenly rises, displacing the water above it and starting long waves. Across deep water, a tsunami carries energy over long distances. Approaching shallower water, it slows and grows taller. The surge crosses the coast, pours around buildings and pushes a vehicle into the street. Floodwater spreads inland as its forward motion gradually weakens. On another hillside, rain enters the soil and can reduce its strength. Cracks open as a mass begins to detach. Gravity accelerates the slide downhill. Large rocks bounce and rotate, while smaller fragments and uprooted trees follow. Dust billows behind the moving material, then thins as debris settles across the road. volcanic gas expands and drives ash and fragments from the vent. Hot material rises into layered, drifting clouds, while heavier pieces follow curved paths back down. Nearby, lava moves slowly along the terrain, a dark crust forms above glowing channels, warming the surrounding ground. These separate hazards reveal how stored energy, gravity, and moving matter can transform a landscape.",
+      "scenes": [
+        {
+          "id": "opening",
+          "matchRate": 1
+        },
+        {
+          "id": "street",
+          "matchRate": 1
+        },
+        {
+          "id": "fault",
+          "matchRate": 1
+        },
+        {
+          "id": "damage",
+          "matchRate": 1
+        },
+        {
+          "id": "seafloor",
+          "matchRate": 1
+        },
+        {
+          "id": "surge",
+          "matchRate": 1
+        },
+        {
+          "id": "slide",
+          "matchRate": 1
+        },
+        {
+          "id": "volcano",
+          "matchRate": 1
+        },
+        {
+          "id": "ending",
+          "matchRate": 1
+        }
+      ]
+    },
+    "issues": []
+  },
+  "physics": {
+    "rockVertexSamples": 1350000,
+    "minimumTerrainClearance": -0.12208205508879022,
+    "nonfinite": 0,
+    "rocksAtOrBeyondRoad": 45,
+    "totalRocks": 45,
+    "floodFrontReversals": 0,
+    "finiteWater": true,
+    "toleranceWorldUnits": 0.15,
+    "passed": true
+  },
+  "determinism": [
+    {
+      "time": 13,
+      "equal": true,
+      "sha256": "1be5e9b9e96cf707d1131719bd2680c02477e4f3f8b0e5e302c1a01e4d2ee9ed"
+    },
+    {
+      "time": 29,
+      "equal": true,
+      "sha256": "f34b060013ecad2cd74a9cc3f864de91d38a00484fe0f16ee46a42ac6aa0f072"
+    },
+    {
+      "time": 39,
+      "equal": true,
+      "sha256": "50f216235b33e8a76d3ece44ee6347eca280c2eb958f6e3d129ae361a0a6b20e"
+    },
+    {
+      "time": 55,
+      "equal": true,
+      "sha256": "195c78bfc69abe7d479aae557b428813bde249c703b4e8bb33d3c4ff995a59a9"
+    },
+    {
+      "time": 80,
+      "equal": true,
+      "sha256": "d2db005c7c4521f28b71b17f953f5c554a07ee505717a6bcc6854a29cf3d76c2"
+    },
+    {
+      "time": 104,
+      "equal": true,
+      "sha256": "1ee98a5073eed6126a569769e6cedfb0222046e833cd8611ea75d7d2c009f8a8"
+    }
+  ],
+  "volcano_camera_clearance": {
+    "samples": 1321,
+    "minimumCameraTerrainClearance": 10.031578877988876,
+    "passed": true
+  },
+  "camera_correction": {
+    "replaced_global_frames": [
+      5400,
+      6719
+    ],
+    "replaced_seconds": [
+      90,
+      112
+    ],
+    "encoded_audio_unchanged": true,
+    "audio_sha256": "SHA256=0df3c6021f3f17be31c63566590a3cbfee9bbeb7238c8425cd446558cc20c175",
+    "final_frames": 7200
+  },
+  "layout": {
+    "issues": [
+      {
+        "level": "hint",
+        "scene": "opening",
+        "t": 0,
+        "message": "no new element for 10.0s (from 0.0s); consider revealing something on a cue in that stretch"
+      },
+      {
+        "level": "hint",
+        "scene": "street",
+        "t": 0,
+        "message": "no new element for 8.0s (from 0.0s); consider revealing something on a cue in that stretch"
+      },
+      {
+        "level": "hint",
+        "scene": "fault",
+        "t": 0,
+        "message": "no new element for 8.0s (from 0.0s); consider revealing something on a cue in that stretch"
+      },
+      {
+        "level": "hint",
+        "scene": "damage",
+        "t": 0,
+        "message": "no new element for 9.0s (from 0.0s); consider revealing something on a cue in that stretch"
+      },
+      {
+        "level": "hint",
+        "scene": "seafloor",
+        "t": 0,
+        "message": "no new element for 8.0s (from 0.0s); consider revealing something on a cue in that stretch"
+      },
+      {
+        "level": "hint",
+        "scene": "surge",
+        "t": 0,
+        "message": "no new element for 22.0s (from 0.0s); consider revealing something on a cue in that stretch"
+      },
+      {
+        "level": "hint",
+        "scene": "slide",
+        "t": 0,
+        "message": "no new element for 25.0s (from 0.0s); consider revealing something on a cue in that stretch"
+      },
+      {
+        "level": "hint",
+        "scene": "volcano",
+        "t": 0,
+        "message": "no new element for 22.0s (from 0.0s); consider revealing something on a cue in that stretch"
+      },
+      {
+        "level": "hint",
+        "scene": "ending",
+        "t": 0,
+        "message": "no new element for 8.0s (from 0.0s); consider revealing something on a cue in that stretch"
+      }
+    ],
+    "duration": 120,
+    "scenes": 9
+  },
+  "review_samples": {
+    "keyframes": [
+      0.8,
+      2,
+      3.4,
+      8,
+      13,
+      21,
+      29,
+      34,
+      38,
+      47,
+      53.5,
+      61.5,
+      68,
+      75,
+      81,
+      88,
+      94,
+      100,
+      109,
+      119
+    ],
+    "consecutive_windows": [
+      13,
+      17.94,
+      28.9,
+      49.8,
+      53,
+      58,
+      74.2,
+      80,
+      89.94,
+      97,
+      105,
+      111.94
+    ],
+    "frames_per_window": 8
+  }
+}
