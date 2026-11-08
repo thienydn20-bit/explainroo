@@ -1,0 +1,126 @@
+{
+  "video_and_subtitles": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": "60/1",
+    "decoded_frames": 1200,
+    "consecutive_duplicate_frames": [],
+    "unique_frame_hashes": 1200,
+    "duration": 20.0,
+    "audio_codec": "aac",
+    "subtitle_cues": 4,
+    "subtitle_timing_errors": [],
+    "last_subtitle_end": 17.64,
+    "old_video_unchanged_sha256": "d42bde16d74b2abc85e19a5d42690407b2b9b3f9b534c72db63b02c39c9b2414",
+    "new_video_sha256": "63a140b720c7dd4aee50448224d0a4fb8142ec30a1ba9d83ad2f7c3c67b2ad35"
+  },
+  "final_mix": {
+    "duration": 20,
+    "video": {
+      "width": 1920,
+      "height": 1080,
+      "fps": "60/1",
+      "codec": "h264"
+    },
+    "audio": {
+      "codec": "aac",
+      "sampleRate": 48000,
+      "channels": 2
+    },
+    "loudness": {
+      "integrated": -14.8,
+      "range": 7.5,
+      "truePeak": -1.1
+    },
+    "blackSegments": [],
+    "silences": [],
+    "speech": {
+      "matchRate": 1,
+      "transcript": "The tsunami approaches the coast. In shallow water, it slows and rises. The surge crosses the shoreline and rushes through streets. Floodwater spreads inland and gradually slows.",
+      "scenes": [
+        {
+          "id": "surge",
+          "matchRate": 1
+        }
+      ]
+    },
+    "issues": []
+  },
+  "motion": {
+    "fps": 60,
+    "frames": 1200,
+    "notes": [],
+    "maxFrontStep": 3.0578689236110677,
+    "maxFrontAccel": 19.944444444672627,
+    "maxZoomStep": 0.0008151549479166187,
+    "maxCamStep": 0.6249969993141633,
+    "continuity": [
+      {
+        "t": 4,
+        "positionGap": 0.003200000772721978,
+        "leftVelocity": 160.00008128003174,
+        "rightVelocity": 159.99999599216608
+      },
+      {
+        "t": 9,
+        "positionGap": 0.0025200009066642798,
+        "leftVelocity": 126.0000640046499,
+        "rightVelocity": 126.00002666177805
+      },
+      {
+        "t": 12,
+        "positionGap": 0.0022000002998652235,
+        "leftVelocity": 110.00007999086846,
+        "rightVelocity": 109.99994999565386
+      },
+      {
+        "t": 15,
+        "positionGap": 0.0013000001333693945,
+        "leftVelocity": 65.00009999399481,
+        "rightVelocity": 64.99991334294464
+      },
+      {
+        "t": 18,
+        "positionGap": 0.000320000516694563,
+        "leftVelocity": 16.000076664113294,
+        "rightVelocity": 15.999975005343002
+      }
+    ]
+  },
+  "motion_blur_probe": [
+    {
+      "time": 6,
+      "temporalBlendCalls": 0,
+      "temporalSamples": 1
+    },
+    {
+      "time": 9.2,
+      "temporalBlendCalls": 5,
+      "temporalSamples": 6
+    },
+    {
+      "time": 16,
+      "temporalBlendCalls": 5,
+      "temporalSamples": 6
+    },
+    {
+      "time": 19.2,
+      "temporalBlendCalls": 0,
+      "temporalSamples": 1
+    }
+  ],
+  "layout": {
+    "issues": [
+      {
+        "level": "hint",
+        "scene": "surge",
+        "t": 0,
+        "message": "no new element for 20.0s (from 0.0s); consider revealing something on a cue in that stretch"
+      }
+    ],
+    "duration": 20,
+    "scenes": 1
+  }
+}

@@ -1,0 +1,18 @@
+1
+00:00:00,650 --> 00:00:02,500
+The tsunami approaches the coast.
+
+2
+00:00:04,000 --> 00:00:06,450
+In shallow water, it slows and rises.
+
+3
+00:00:09,020 --> 00:00:12,130
+The surge crosses the shoreline
+and rushes through streets.
+
+4
+00:00:15,010 --> 00:00:17,640
+Floodwater spreads inland
+and gradually slows.
+
